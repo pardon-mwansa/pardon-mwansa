@@ -1,7 +1,7 @@
 # Hello, I'm Pardon Mwansa
 <a href="https://linkedin.com/in/pardon-mwansa-cc-39317567"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-##Brief Introduction 
+###Brief Introduction 
 
 I am a Training Specialist with a passion in technology and cybersecurity.
 
