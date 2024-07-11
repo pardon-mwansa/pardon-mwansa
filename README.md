@@ -49,7 +49,7 @@ My journey in Training and development within the security space has led me to d
 <div>
 <a href="https://www.credly.com/badges/b16e97fd-65be-499a-8aa7-cfa083059d3e"><img src="https://img.shields.io/badge/Certified_in_Cybersecurity-green" /></a>
 <a href="https://www.credly.com/badges/8eaaf507-c076-4f29-a6dc-337750ec8705"><img src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-yellow"/></a>
-##<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/031f3648-7749-455c-a84b-57aedabe4386"><img src="https://img.shields.io/badge/Google_Project_Management_Certificate-orange" /></a>
 ##<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 ##<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
