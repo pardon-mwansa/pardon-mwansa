@@ -12,9 +12,9 @@ My journey in Training and development within the security space has led me to d
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Badge        |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Linux          | <a href="https://academy.hackthebox.com/achievement/badge/783b5e0a-ec1e-11ee-b18d-bea50ffe6cb4"></a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
