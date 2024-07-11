@@ -15,7 +15,7 @@ My journey in Training and development within the security space has led me to d
 | Skill                                         | Associated Badge        |
 |-----------------------------------------------|----------------------------|
 | Linux          | <a href="https://academy.hackthebox.com/achievement/badge/783b5e0a-ec1e-11ee-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" alt="Penguin" width="150" height="150"></a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Enumeration with Nmap  | <a href="https://academy.hackthebox.com/achievement/badge/82511515-edaf-11ee-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" alt="eye" width="150" height="150"></a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
