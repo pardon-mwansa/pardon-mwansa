@@ -1,12 +1,11 @@
 # Hello, I'm Pardon Mwansa
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Brief Introduction 
 
 I am a Training Specialist with a passion in technology and cybersecurity.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+Objective
 
 My journey in Training and development within the security space has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
