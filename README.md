@@ -43,7 +43,7 @@ My journey in Training and development within the security space has led me to d
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-Certifications
+### Certifications
 <div>
 <a href="https://www.credly.com/badges/b16e97fd-65be-499a-8aa7-cfa083059d3e"><img src="https://img.shields.io/badge/Certified_in_Cybersecurity-green" /></a>
 <a href="https://www.credly.com/badges/8eaaf507-c076-4f29-a6dc-337750ec8705"><img src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-yellow"/></a>
