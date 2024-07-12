@@ -35,7 +35,7 @@ My journey in Training and development within the security space has led me to d
    <a href="https://academy.hackthebox.com/achievement/1209782/226"> <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div></a>
 
-### Endpoint
+### DFIR
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
