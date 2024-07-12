@@ -22,7 +22,7 @@ My journey in Training and development within the security space has led me to d
 | Threat Hunting & Hunting With Elastic  | <a href="https://academy.hackthebox.com/achievement/badge/65c967ac-11db-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/d7343c8afb32e9feee0fed1fc2acd378/logo.png" alt="witch" width="150" height="150"></a>|
 | Security Monitoring & SIEM Fundamentals  |<a href="https://academy.hackthebox.com/achievement/badge/581f9399-f59a-11ee-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/abc6e5a362f8adad812c5cfa87783bd9/logo.png" alt="monk" width="150" height="150"></a> |
 | Working with IDS/IPS  | <a href="https://academy.hackthebox.com/achievement/badge/22f54f39-390b-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/cf9c253dc8ebf2b6aeec619b9ab67da6/logo.png" alt="wukong" width="150" height="150"></a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Intermediate Network Traffic Analysis | <a href="https://academy.hackthebox.com/achievement/badge/5d7244f4-2fb1-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/89021e789fbd37d54a28b1f242d9153e/logo.png" alt="kobald" width="150" height="150"></a>|
 
 
 ## Tools
