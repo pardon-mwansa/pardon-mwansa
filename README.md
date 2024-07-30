@@ -25,7 +25,7 @@ My journey in Training and development within the security space has led me to d
 | Intermediate Network Traffic Analysis | <a href="https://academy.hackthebox.com/achievement/badge/5d7244f4-2fb1-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/89021e789fbd37d54a28b1f242d9153e/logo.png" alt="kobald" width="150" height="150"></a>|
 | SOC Analyst Job Role Path | <a href="https://academy.hackthebox.com/achievement/badge/3f376a66-4827-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/38f420076471d88c3d5f5d0db423cca1/logo.png" alt="kobald" width="150" height="150"></a>|
 
-| HTB DIFR Challenges                                        | Associated Badge        |
+| HTB DFIR Challenges                                        | Associated Badge        |
 |-----------------------------------------------|----------------------------|
 | Ultimatum | <a href="https://labs.hackthebox.com/achievement/sherlock/1893873/615"><img src="https://labs.hackthebox.com/storage/challenges/58d4d1e7b1e97b258c9ed0b37e02d087.png" alt="Ultimatum" width="150" height="150"></a>|
 | Jingle Bell | <a href="https://labs.hackthebox.com/achievement/sherlock/1893873/613"><img src="https://labs.hackthebox.com/storage/challenges/f29c21d4897f78948b91f03172341b7b.png" alt="Ultimatum" width="150" height="150"></a>|
