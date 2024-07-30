@@ -23,10 +23,14 @@ My journey in Training and development within the security space has led me to d
 | Security Monitoring & SIEM Fundamentals  |<a href="https://academy.hackthebox.com/achievement/badge/581f9399-f59a-11ee-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/abc6e5a362f8adad812c5cfa87783bd9/logo.png" alt="monk" width="150" height="150"></a> |
 | Working with IDS/IPS  | <a href="https://academy.hackthebox.com/achievement/badge/22f54f39-390b-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/cf9c253dc8ebf2b6aeec619b9ab67da6/logo.png" alt="wukong" width="150" height="150"></a>|
 | Intermediate Network Traffic Analysis | <a href="https://academy.hackthebox.com/achievement/badge/5d7244f4-2fb1-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/89021e789fbd37d54a28b1f242d9153e/logo.png" alt="kobald" width="150" height="150"></a>|
+| SOC Analyst Job Role Path | <a href="https://academy.hackthebox.com/achievement/badge/3f376a66-4827-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/38f420076471d88c3d5f5d0db423cca1/logo.png" alt="kobald" width="150" height="150"></a>|
 
-
+| HTB DIFR Challenges                                        | Associated Badge        |
+|-----------------------------------------------|----------------------------|
+| Ultimatum | <a href="https://labs.hackthebox.com/achievement/sherlock/1893873/615"><img src="https://labs.hackthebox.com/storage/challenges/58d4d1e7b1e97b258c9ed0b37e02d087.png" alt="Ultimatum" width="150" height="150"></a>|
+| Jingle Bell | <a href="https://labs.hackthebox.com/achievement/sherlock/1893873/613"><img src="https://labs.hackthebox.com/storage/challenges/f29c21d4897f78948b91f03172341b7b.png" alt="Ultimatum" width="150" height="150"></a>|
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Tools
 
 ### Network
 <div>
