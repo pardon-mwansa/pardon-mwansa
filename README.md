@@ -59,5 +59,4 @@ My journey in Training and development within the security space has led me to d
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+COMING SOON!!!
