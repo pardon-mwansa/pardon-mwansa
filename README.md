@@ -32,7 +32,7 @@ My journey in Training and development within the security space has led me to d
 
 ## Penetration Testing
 
-| HTB DFIR Challenges                                        | Associated Badge        |
+| HTB Penetration Testing Challenges                                        | Associated Badge        |
 |-----------------------------------------------|----------------------------|
 | |
 ## Tools
