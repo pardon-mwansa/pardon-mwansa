@@ -29,7 +29,12 @@ My journey in Training and development within the security space has led me to d
 |-----------------------------------------------|----------------------------|
 | Ultimatum | <a href="https://labs.hackthebox.com/achievement/sherlock/1893873/615"><img src="https://labs.hackthebox.com/storage/challenges/58d4d1e7b1e97b258c9ed0b37e02d087.png" alt="Ultimatum" width="150" height="150"></a>|
 | Jingle Bell | <a href="https://labs.hackthebox.com/achievement/sherlock/1893873/613"><img src="https://labs.hackthebox.com/storage/challenges/f29c21d4897f78948b91f03172341b7b.png" alt="Ultimatum" width="150" height="150"></a>|
-## Tools
+
+## Penetration Testing
+
+| HTB DFIR Challenges                                        | Associated Badge        |
+|-----------------------------------------------|----------------------------|
+| |
 ## Tools
 
 ### Network
@@ -56,6 +61,7 @@ My journey in Training and development within the security space has led me to d
 <a href="https://www.credly.com/badges/b16e97fd-65be-499a-8aa7-cfa083059d3e"><img src="https://img.shields.io/badge/Certified_in_Cybersecurity-green" /></a>
 <a href="https://www.credly.com/badges/8eaaf507-c076-4f29-a6dc-337750ec8705"><img src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-yellow"/></a>
 <a href="https://www.credly.com/badges/031f3648-7749-455c-a84b-57aedabe4386"><img src="https://img.shields.io/badge/Google_Project_Management_Certificate-orange" /></a>
+<a href="https://www.credly.com/badges/d3fad50c-495a-40a4-9e60-1da4f690d495/public_url"><img src="https://images.credly.com/size/110x110/images/54d3717b-b54c-41d0-9b85-e019c0b574b0/image.png"width="50" height="50"></a>
 </div>
 
 ## Projects
